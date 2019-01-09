@@ -3,7 +3,7 @@
  
  Thomas et Julien ont travaillé dur sur ce projet <3 !
  
- file:///home/julien/S1Mar/index.html
+ https://julienthp.github.io/S2Mar/
  
  Eeeeeeeeeeeeeeeet... Hello, I wanna play a game : Tout les liens fonctionnent. Un seul contient un cadeau pour les yeux, les autres sont de purs trolls. Enjoy ! 
  
